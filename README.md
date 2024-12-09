@@ -33,10 +33,6 @@ Tindex's basic version is licensed under the permissive **MIT License**, allowin
 
 ---
 
-Here’s an improved version of your text, prioritizing clarity, structure, and emphasis on key features:
-
----
-
 ## 🌟 Premium Version Features
 
 The premium version of Tindex offers a range of advanced features that build upon the capabilities of the basic version. These enhancements are designed to improve both user experience and content management for authors:
